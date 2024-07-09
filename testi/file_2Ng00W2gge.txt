@@ -1,0 +1,16 @@
+[
+ Username: sarabianchi,
+ Name: Sara,
+ Surname: Bianchi,
+ E-mail: sarabianchi@email.it,
+ Cities:
+   - Rome
+   - Milan
+ Budgets:
+   - 200
+   - 300
+ Requested format: 60x80,
+ RequestId: 2Ng00W2gge,
+ InvoiceNumber: 3801875649,
+ AmountDue: 411.19998
+]

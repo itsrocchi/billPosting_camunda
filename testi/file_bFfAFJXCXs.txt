@@ -1,0 +1,25 @@
+[
+ Username: sarabianchi,
+ Name: Sara,
+ Surname: Bianchi,
+ E-mail: sarabianchi@email.it,
+ Cities:
+   - Rome
+   - Milan
+ Budgets:
+   - 200
+   - 300
+ Requested format: 60x80,
+ RequestId: bFfAFJXCXs,
+ Zones: 
+     - Center - Rome (ID: 5, Price: 89,9)
+     - EUR - Rome (ID: 7, Price: 38)
+     - Trastevere - Rome (ID: 9, Price: 29,9)
+     - Parioli - Rome (ID: 8, Price: 18,5)
+     - Testaccio - Rome (ID: 10, Price: 16)
+     - Duomo - Milan (ID: 11, Price: 119,9)
+     - Isola - Milan (ID: 12, Price: 75)
+     - Navigli - Milan (ID: 13, Price: 59,9)
+ InvoiceNumber: 8547350373,
+ AmountDue: 447.1
+]
